@@ -8,6 +8,7 @@ public class GitDemo1
 	public void gitdemo1()
 	{
 		System.out.println("this is git");
+		System.out.println("this is conflict");
 	}
 
 }
