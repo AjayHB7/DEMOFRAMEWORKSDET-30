@@ -8,6 +8,13 @@ public class TryOneTest
 	public void mvntest2()
 	{
 		System.out.println("run maven 2 smk");
+		
+		
+		
+		
+		
+		
+		
 		System.out.println("run maven 2 smk");
 	}
 
