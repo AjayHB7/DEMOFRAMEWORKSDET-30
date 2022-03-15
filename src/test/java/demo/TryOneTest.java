@@ -9,18 +9,13 @@ public class TryOneTest
 	{
 
 		System.out.println("run maven 1 smk");		
-		
+
 		System.out.println("run maven 2 smk");
-		
+
 		System.out.println("run maven 3 smk");
 
-		
 		System.out.println("run maven 4 smk");
-		
-		System.out.println("run maven 5 smk");
 
-		
-		System.out.println("run maven 6 smk");
 
 	}
 
