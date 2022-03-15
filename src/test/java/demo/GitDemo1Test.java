@@ -17,6 +17,11 @@ public class GitDemo1Test
 	public void mvnrun()
 	{
 		System.out.println("run one");
+		
+		
+		
+		
+		System.out.println("run two");
 	}
 	
 
