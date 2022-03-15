@@ -16,6 +16,8 @@ public class TryOneTest
 		System.out.println("run maven 4 smk");
 		
 		System.out.println("run maven 5 smk");
+		
+		System.out.println("run maven 6 smk");
 	}
 
 }
