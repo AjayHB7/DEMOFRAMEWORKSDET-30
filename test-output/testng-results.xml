@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47" started-at="2022-03-10T09:59:59Z" finished-at="2022-03-10T09:59:59Z">
+  <suite name="Default suite" duration-ms="31" started-at="2022-03-14T10:48:58Z" finished-at="2022-03-14T10:48:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47" started-at="2022-03-10T09:59:59Z" finished-at="2022-03-10T09:59:59Z">
-      <class name="demo.GitDemo1">
-        <test-method status="PASS" signature="gitdemo1()[pri:0, instance:demo.GitDemo1@735b5592]" name="gitdemo1" duration-ms="16" started-at="2022-03-10T09:59:59Z" finished-at="2022-03-10T09:59:59Z">
+    <test name="Default test" duration-ms="31" started-at="2022-03-14T10:48:58Z" finished-at="2022-03-14T10:48:58Z">
+      <class name="demo.ParmeterDemoTest">
+        <test-method status="PASS" signature="para()[pri:0, instance:demo.ParmeterDemoTest@735b5592]" name="para" duration-ms="15" started-at="2022-03-14T10:48:58Z" finished-at="2022-03-14T10:48:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- gitdemo1 -->
-      </class> <!-- demo.GitDemo1 -->
+        </test-method> <!-- para -->
+      </class> <!-- demo.ParmeterDemoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
